@@ -1,8 +1,10 @@
 # Group 19
-Group Name: TEAM_NAME
+Group Name: STeam
 
 [MVP Link](https://docs.google.com/document/d/1fKt3dIWbXDXDxxa2TfQEufvZZMTLYHkJN-kwmsx7REc/edit?usp=sharing)
 
-Team Members: STUDENTS_NETIDS
+Team Members: zhuoang2, aharia2, zehaoji2, heweit2
 
 Project Manager: gychen2
+
+Project Description: Recommending tourist attractions to tourists and giving them the best possible path to visit these attractions to make planning a vacation as easy as possible. 
